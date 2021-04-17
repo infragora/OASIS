@@ -1,3 +1,4 @@
+
 ## OASIS 🏁
 
 Software systems for vending and exchange.
@@ -12,7 +13,14 @@ On top of the dubiously unfortunate support for on-chain escrow, [Signal-CLI](ht
 
 This said, while existing software infrastructure doesn't meet the needs of vendomats, it seems as if a path forward exists, combining a hosted mobilecoind instance, [libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) and [Cloudflare Durable Objects](https://developers.cloudflare.com/workers/learning/using-durable-objects) to terminate E2E order and payment messages in a robust and secure manner, enabling the development and proliferation of high availability and high confidentiality automated agents with payment enablement and data transfer.
 
+### Donations
+
 To explore, prototype, refine, and document viable solutions for Signal/MOB-based vending, we are recruiting donations in MOB and XMR to support the long-term rental of a dedicated OVH server with SGX support for hosting `mobilecoind` and prototype VMs, fund a few Cloudflare workers accounts, and incentivise developer time.
+
+
+#### MobileCoin Donations (Fog Enabled!)
+
+<img src="https://user-images.githubusercontent.com/82622706/115127227-ecb90980-9fa2-11eb-8128-1fb375caec08.gif" width="512">
 
 
 ### Preliminary Goals and funding stages
