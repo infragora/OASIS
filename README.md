@@ -18,9 +18,13 @@ This said, while existing software infrastructure doesn't meet the needs of vend
 To explore, prototype, refine, and document viable solutions for Signal/MOB-based vending, we are recruiting donations in MOB and XMR to support the long-term rental of a dedicated OVH server with SGX support for hosting `mobilecoind` and prototype VMs, fund a few Cloudflare workers accounts, and incentivise developer time.
 
 
-#### MobileCoin Donations (Fog Enabled!)
+* MobileCoin (Fog Enabled!)
 
 <img src="https://user-images.githubusercontent.com/82622706/115127227-ecb90980-9fa2-11eb-8128-1fb375caec08.gif" width="512">
+
+* Monero
+
+<img src="https://user-images.githubusercontent.com/82622706/115127579-897ca680-9fa5-11eb-89d3-369aad5d33f3.gif" width="512">
 
 
 ### Preliminary Goals and funding stages
@@ -30,4 +34,4 @@ To explore, prototype, refine, and document viable solutions for Signal/MOB-base
  * ⬜ NEXT - €5000 - two people-weeks of full time integration and infrastructure work, beta launch of info/code-vending chatbot
  * ⬜ SRSLY - €50000 - one year of hosted servers funded and enablement software maintained, six person-months of integration and documentation work, public launch of DIY chatbot vending project, beta launch of hosted enablement
  * ⬜ ORLLY - €500000 - three person-years of integration and documentation work, verifiable autonomous escrow agent designed and funded, five-year LTS deployment playbook for enablement services, public bug bounty fund, grants for sponsoring vending teams for rhyzomatic growth, and surprise ecosystem enablement features (NFC h\*rdware wall\*t!?)
- * ⬜ NXTLVL - €5mm - Everything above, but done extremely right. Ten person-years of integration work including short-term horizontal team growth, sponsored coding bootcamp(s) for new devs, GB incorporation, Defcon29/Defcon30 party, guerrila marketing (airdr\*p?), advertising campaigns, and customer service agents.
+ * ⬜ NXTLVL - €5mm - Everything above, but done extremely right. Ten person-years of integration work including short-term horizontal team growth, sponsored coding bootcamp(s) for new devs, GB incorporation, Defcon29/Defcon30 party, guerrila marketing (airdr\*p?), liquidity for cross-chain chatops sends, advertising campaigns, and customer service agents.
